@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @blooregardkazoo
-- 👀 I’m interested in ...
+- 👀 I’m interested in DSA
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me ...
